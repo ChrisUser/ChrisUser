@@ -5,7 +5,7 @@ Always pushing myself towards my limits with the intent to overcome them 💪, l
 
 Co-Founder of [Massbit](https://github.com/massbit).
 
-Currently working @ [22HBG](https://github.com/22hbg-srl).
+Currently working @[22HBG](https://github.com/22hbg-srl).
 <!--
 **ChrisUser/ChrisUser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
