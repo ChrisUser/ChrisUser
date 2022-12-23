@@ -8,7 +8,6 @@ Collaboration are welcome for each one of my **public** projects. I strongly bel
 
 ---
 
-*This document was adapted from the [IndieWeb Code of Conduct][] and can also
-be found at <https://opensource.google/conduct/>.*
+*This document was adapted from the [IndieWeb Code of Conduct][].*
 
 [IndieWeb Code of Conduct]: https://indieweb.org/code-of-conduct
