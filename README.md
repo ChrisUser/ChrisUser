@@ -3,7 +3,7 @@
 I'm Cristiano, a Frontend developer based in Italy. Firm supporter of open source 💻, art 🎨, music 🎹 and cinema 🎬 passionate.
 Always pushing myself towards my limits with the intent to overcome them 💪. Learning something new every day 🌱.
 
-Co-Founder of [Massbit](https://github.com/massbit), currently working @[22HBG](https://github.com/22hbg-srl).
+Co-Founder of [Massbit](https://github.com/massbit), currently working @ [22HBG](https://github.com/22hbg-srl).
 
 ### Past years activity
 
