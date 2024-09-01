@@ -10,6 +10,14 @@ Co-Founder of [Massbit](https://github.com/massbit), currently working @ [22HBG]
 <details>
 <br/>
 
+**2023**
+
+<div style="max-width:520px">
+
+![2023 GitHub ChrisUser's activity graph](https://github.com/ChrisUser/ChrisUser/blob/main/images/2023_activity.jpg?raw=true)
+
+</div>
+
 **2022**
 
 <div style="max-width:520px">
