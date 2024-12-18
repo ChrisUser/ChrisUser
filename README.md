@@ -1,7 +1,11 @@
 ## Hi there 👋
 
-I'm Cristiano, a Frontend developer based in Italy. Firm supporter of open source 💻, art 🎨, music 🎹 and cinema 🎬 passionate.
-Always pushing myself towards my limits with the intent to overcome them 💪. Learning something new every day 🌱.
+My name is Cristiano.\
+I'm passionate about software development and open-source contributions.\
+I enjoy learning new technologies and applying them to solve real-world problems.\
+This GitHub profile is a collection of my projects, experiments, and contributions to the community.
+
+Let's build something amazing together!
 
 Co-Founder of [Massbit](https://github.com/massbit), currently working @ [22HBG](https://github.com/22hbg-srl).
 
@@ -42,18 +46,3 @@ Co-Founder of [Massbit](https://github.com/massbit), currently working @ [22HBG]
 
 </div>
 </details>
-
-<!--
-**ChrisUser/ChrisUser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
